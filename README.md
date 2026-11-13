@@ -11,6 +11,6 @@ This repository holds Saffron's downloads and website only. The source code is p
 
 All versions: [Releases](https://github.com/kevincook/saffron-releases/releases)
 
-### Windows preview note
+### Windows note
 
 The installer is signed by Kevin Cook. If SmartScreen warns while the signature is new, click **More info**, then **Run anyway**.
