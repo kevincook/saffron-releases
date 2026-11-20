@@ -126,6 +126,18 @@ li {
   font-size: 16px;
 }
 
+.phone-shots {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.phone-shots figure {
+  flex: 1 1 120px;
+  min-width: 120px;
+  max-width: 160px;
+}
+
 a {
   color: #8f2d22;
 }
